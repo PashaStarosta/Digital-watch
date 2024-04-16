@@ -1,0 +1,12 @@
+@media (max-width: 1140px) {
+    .clock {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 760px) {
+    .clock {
+        font-size: 20px;
+    }
+
+}
